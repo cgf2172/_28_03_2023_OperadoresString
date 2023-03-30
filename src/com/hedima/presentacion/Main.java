@@ -35,6 +35,11 @@ public class Main {
         i-=j--;
         System.out.println(i);
         System.out.println(j);
+        int k=10;
+        int l=5;
+        k+=++l;
+        System.out.println(k);
+        System.out.println(l);
 
     }
 }
